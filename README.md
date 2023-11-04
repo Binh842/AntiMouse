@@ -17,9 +17,13 @@ python main.py
 ![How use](images/image.png)
 
 fist ---> kéo chuột
+
 one ---> di chuyển 
+
 two up ---> click chuột trái
+
 two up inv ---. click chuột phải
+
 stop ---> thoát
 
 
