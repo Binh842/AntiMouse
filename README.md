@@ -15,6 +15,7 @@ python main.py
 ```
 ### Cách dùng
 ![How use](images/image.png)
+
 fist ---> kéo chuột
 one ---> di chuyển 
 two up ---> click chuột trái
