@@ -6,6 +6,7 @@ import pyautogui as pg
 import time
 import math
 
+
 FirstMove = True
 virtual = None
 def control_mouse(move,check_click,check_scroll):
